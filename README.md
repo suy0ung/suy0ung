@@ -23,7 +23,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suy0ung&layout=compact)](https://github.com/suy0ung/github-readme-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuy0ung%2F&count_bg=%23E7D0ED&title_bg=%23F8C2C2&icon=github.svg&icon_color=%23FFFFFF&title=Githud&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuy0ung%2F&count_bg=%23E7D0ED&title_bg=%23F8C2C2&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 </div>
